@@ -15,7 +15,7 @@ class Readme(object):
                    'Until {}, Completed: **{}** / **{}**\n\n' \
                    'Completed: \n' \
                    '| Python | Java | C++ |\n' \
-                   '|:---:|:---:|:---:|\n' \
+                   '|-|:-:|-:|\n' \
                    '|{Python}|{Java}|{C++}|'.format(self.time, self.solved, self.total, self.locked, **self.others)
 
     def create_leetcode_readme(self, table_instance):
