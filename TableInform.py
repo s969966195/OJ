@@ -69,8 +69,7 @@ class TableInform:
                     if len(files) != 0:
                         complete_info.complete_num += 1
                     for item in files:
-                        folder_url = folder.replace(' ', '%20')
-                        folder_url = os.path.join(folder_url, item)
+                        folder_url = os.path.join(folder, item)
                         folder_url = os.path.join(Config.github_leetcode_url, folder_url)
                         if item.endswith('.py'):
                             complete_info.solved['Python'] += 1
