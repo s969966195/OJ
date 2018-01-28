@@ -16,7 +16,7 @@ class Readme(object):
                    'Completed: \n' \
                    '| Python | Java | C++ |\n' \
                    '|:---:|:---:|:---:|\n' \
-                   '| {Python} | {Java} | {C++} |'.format(self.time, self.solved, self.total, self.locked, **self.others)
+                   '|{Python}|{Java}|{C++}|'.format(self.time, self.solved, self.total, self.locked, **self.others)
 
     def create_leetcode_readme(self, table_instance):
         file_path = os.getcwd() + '/README.md'
