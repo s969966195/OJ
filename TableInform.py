@@ -71,6 +71,7 @@ class TableInform:
                     for item in files:
                         folder_url = os.path.join(folder, item)
                         folder_url = os.path.join(Config.github_leetcode_url, folder_url)
+                        folder_url = folder_url.replace(' ', '%20')
                         if item.endswith('.py'):
                             complete_info.solved['Python'] += 1
                             self.table_item[folder[:3]].python = '[Python]({})'.format(folder_url)

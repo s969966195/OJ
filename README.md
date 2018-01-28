@@ -1,5 +1,5 @@
 # Test
-Until 2018-01-28 22:46:20, I have solved **1** / **690** problemswhile **False** are still locked.
+Until 2018-01-28 22:57:44, I have solved **1** / **690** problemswhile **False** are still locked.
 
 Completion statistic: 
 1. Python: 1
@@ -12,7 +12,7 @@ Note: lock:means you need to buy a book from LeetCode
 ## LeetCode Solution Table
 | ID | Title | Difficulty | Python | Java | C++ |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|001|[Two Sum](https://leetcode.com/problems/two-sum/description/) |Easy|[Python](https://github.com/s969966195/OJ/001. Two Sum/Two Sum.py)|To Do|To Do|
+|001|[Two Sum](https://leetcode.com/problems/two-sum/description/) |Easy|[Python](https://github.com/s969966195/OJ/001.%20Two%20Sum/Two%20Sum.py)|To Do|To Do|
 |002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) |Medium|To Do|To Do|To Do|
 |003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |Medium|To Do|To Do|To Do|
 |004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) |Hard|To Do|To Do|To Do|
