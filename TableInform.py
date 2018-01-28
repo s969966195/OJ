@@ -46,7 +46,7 @@ class TableInform:
         oj_algorithms = os.getcwd() + '/' + oj_name
 
         if os.path.exists(oj_algorithms):
-            print oj_name + ' 文件夹已存在.'
+            print oj_name + u' 文件夹已存在.'
         else:
             print '创建 {} 文件夹......'.format(oj_name)
             os.mkdir(oj_algorithms)
@@ -54,7 +54,7 @@ class TableInform:
         for item in self.table_item.values():
             question_folder_name = oj_algorithms + '/' + item.id + '. ' + item.title
             if not os.path.exists(question_folder_name):
-                print question_folder_name + '文件夹不存在, 正在创建......'
+                print question_folder_name + u'文件夹不存在, 正在创建......'
                 os.mkdir(question_folder_name)
 
     def update_table(self, oj):
