@@ -1,13 +1,10 @@
-# Test
-Until 2018-01-28 22:57:44, I have solved **1** / **690** problemswhile **False** are still locked.
+# OJ
+Until 2018-01-28 23:09:12, Completed: **1** / **690**
 
-Completion statistic: 
-1. Python: 1
-2. Java: 0
-3. C++: 0
-
-Note: lock:means you need to buy a book from LeetCode
-
+Completed: 
+| Python | Java | C++ |
+| :---: | :---: | :---: |
+| 1 | 0 | 0 |
 ---------------------
 ## LeetCode Solution Table
 | ID | Title | Difficulty | Python | Java | C++ |
