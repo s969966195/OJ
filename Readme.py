@@ -29,7 +29,7 @@ class Readme(object):
         with open(file_path, 'a') as f:
             f.write('## LeetCode Solution Table\n')
             f.write('| ID | Title | Difficulty | Python | Java | C++ |\n')
-            f.write('|:---:' * 7 + '|\n')
+            f.write('|:---:' * 6 + '|\n')
             table, table_item = table_instance
 
             for index in table:
