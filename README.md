@@ -1,9 +1,9 @@
 # OJ
-Until 2018-01-28 23:09:12, Completed: **1** / **690**
+Until 2018-01-28 23:11:43, Completed: **1** / **690**
 
 Completed: 
 | Python | Java | C++ |
-| :---: | :---: | :---: |
+|:---:|:---:|:---:|
 | 1 | 0 | 0 |
 ---------------------
 ## LeetCode Solution Table

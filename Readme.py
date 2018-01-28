@@ -12,11 +12,11 @@ class Readme(object):
         self.locked = locked
         self.time = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
         self.msg = '# OJ\n' \
-                   'Until {}, Completed: **{}** / **{}**' \
-                   '\n\nCompleted: ' \
-                   '\n| Python | Java | C++ |' \
-                   '\n| :---: | :---: | :---: |' \
-                   '\n| {Python} | {Java} | {C++} |'.format(self.time, self.solved, self.total, self.locked, **self.others)
+                   'Until {}, Completed: **{}** / **{}**\n\n' \
+                   'Completed: \n' \
+                   '| Python | Java | C++ |\n' \
+                   '|:---:|:---:|:---:|\n' \
+                   '| {Python} | {Java} | {C++} |'.format(self.time, self.solved, self.total, self.locked, **self.others)
 
     def create_leetcode_readme(self, table_instance):
         file_path = os.getcwd() + '/README.md'
