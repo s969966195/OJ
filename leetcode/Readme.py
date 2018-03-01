@@ -10,22 +10,18 @@ class Readme(object):
         self.solved = solved
         self.others = others
         self.locked = locked
-        self.time = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
-        self.msg = '# OJ\n' \
-                   'Until {}, Completed: **{}** / **{}**\n\n' \
+        self.msg = 'Completed: **{}** / **{}**\n\n' \
                    'Completed: \n\n' \
                    '| Python | Java | C++ |\n' \
                    '| --- | ---: | :---: |\n' \
-                   '| {Python} | {Java} | {C++} |\n\n'.format(self.time, self.solved, self.total, self.locked, **self.others)
+                   '| {Python} | {Java} | {C++} |\n\n'.format(self.solved, self.total, self.locked, **self.others)
 
     def create_leetcode_readme(self, table_instance):
         file_path = os.getcwd() + '/README.md'
-        with open(file_path, 'w') as f:
+        with open(file_path, 'a') as f:
             f.write(self.msg)
             f.write('\n---------------------\n')
-
-        with open(file_path, 'a') as f:
-            f.write('## LeetCode Solution Table\n')
+            f.write('## LeetCode\n')
             f.write('| ID | Title | Difficulty | Python | Java | C++ |\n')
             f.write('|:---:' * 6 + '|\n')
             table, table_item = table_instance
@@ -46,4 +42,4 @@ class Readme(object):
                 }
                 line = '|{id}|{title}|{difficulty}|{Python}|{Java}|{C++}|\n'.format(**data)
                 f.write(line)
-        print('README.md已完成.......')
+        print('leetcode README.md已完成.......')

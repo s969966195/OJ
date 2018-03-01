@@ -8,7 +8,7 @@ from Readme import Readme
 from Config import Config
 
 
-class TableInform:
+class LeetcodeTableInform:
     def __init__(self):
         self.questions = []
         self.table = []
@@ -63,24 +63,24 @@ class TableInform:
         complete_info.total = len(self.table)
         self.__create_folder(oj)
         oj_algorithms = os.getcwd() + '/' + oj
-        for _, folders, _ in os.walk(oj_algorithms):
-            for folder in folders:
-                for _, _, files in os.walk(os.path.join(oj_algorithms, folder)):
-                    if len(files) != 0:
-                        complete_info.complete_num += 1
-                    for item in files:
-                        folder_url = os.path.join(folder, item)
-                        folder_url = os.path.join(Config.github_leetcode_url, folder_url)
-                        folder_url = folder_url.replace(' ', '%20')
-                        if item.endswith('.py'):
-                            complete_info.solved['Python'] += 1
-                            self.table_item[folder[:3]].python = '[Python]({})'.format(folder_url)
-                        elif item.endswith('.java'):
-                            complete_info.solved['Java'] += 1
-                            self.table_item[folder[:3]].java = '[Java]({})'.format(folder_url)
-                        elif item.endswith('.cpp'):
-                            complete_info.solved['C++'] += 1
-                            self.table_item[folder[:3]].c_plus_plus = '[Java]({})'.format(folder_url)
+        folders = os.listdir(oj_algorithms)
+        for folder in folders:
+            for _, _, files in os.walk(os.path.join(oj_algorithms, folder)):
+                if len(files) != 0:
+                    complete_info.complete_num += 1
+                for item in files:
+                    folder_url = os.path.join(folder, item)
+                    folder_url = os.path.join(Config.github_leetcode_url, folder_url)
+                    folder_url = folder_url.replace(' ', '%20')
+                    if item.endswith('.py'):
+                        complete_info.solved['Python'] += 1
+                        self.table_item[folder[:3]].python = '[Python]({})'.format(folder_url)
+                    elif item.endswith('.java'):
+                        complete_info.solved['Java'] += 1
+                        self.table_item[folder[:3]].java = '[Java]({})'.format(folder_url)
+                    elif item.endswith('.cpp'):
+                        complete_info.solved['C++'] += 1
+                        self.table_item[folder[:3]].c_plus_plus = '[C++]({})'.format(folder_url)
 
         readme = Readme(complete_info.total,
                         complete_info.complete_num,

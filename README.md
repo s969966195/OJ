@@ -1,5 +1,10 @@
 # OJ
-Until 2018-01-30 20:06:00, Completed: **1** / **690**
+Until 2018-03-01 17:13:20
+- [LeetCode](#leetcode)
+- [NowCoder](#nowcoder)
+
+---------------------
+Completed: **1** / **706**
 
 Completed: 
 
@@ -9,7 +14,7 @@ Completed:
 
 
 ---------------------
-## LeetCode Solution Table
+## LeetCode
 | ID | Title | Difficulty | Python | Java | C++ |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |001|[Two Sum](https://leetcode.com/problems/two-sum/description/) |Easy|[Python](https://github.com/s969966195/OJ/001.%20Two%20Sum/Two%20Sum.py)|To Do|To Do|
@@ -702,3 +707,42 @@ Completed:
 |773|[Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/description/) |Hard|To Do|To Do|To Do|
 |774|[Minimize Max Distance to Gas Station](https://leetcode.com/problems/minimize-max-distance-to-gas-station/description/) :lock:|Hard|To Do|To Do|To Do|
 |775|[Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions/description/) |Medium|To Do|To Do|To Do|
+|776|[Split BST](https://leetcode.com/problems/split-bst/description/) :lock:|Medium|To Do|To Do|To Do|
+|777|[Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string/description/) |Medium|To Do|To Do|To Do|
+|778|[Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/description/) |Hard|To Do|To Do|To Do|
+|779|[K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/description/) |Medium|To Do|To Do|To Do|
+|780|[Reaching Points](https://leetcode.com/problems/reaching-points/description/) |Hard|To Do|To Do|To Do|
+|781|[Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/description/) |Medium|To Do|To Do|To Do|
+|782|[Transform to Chessboard](https://leetcode.com/problems/transform-to-chessboard/description/) |Hard|To Do|To Do|To Do|
+|783|[Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/) |Easy|To Do|To Do|To Do|
+|784|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/) |Easy|To Do|To Do|To Do|
+|785|[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/) |Medium|To Do|To Do|To Do|
+|786|[K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/description/) |Hard|To Do|To Do|To Do|
+|787|[Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/) |Medium|To Do|To Do|To Do|
+|788|[Rotated Digits](https://leetcode.com/problems/rotated-digits/description/) |Easy|To Do|To Do|To Do|
+|789|[Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts/description/) |Medium|To Do|To Do|To Do|
+|790|[Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/description/) |Medium|To Do|To Do|To Do|
+|791|[Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/) |Medium|To Do|To Do|To Do|
+Completed: **9**
+
+Completed: 
+
+| Python | Java | C++ |
+| --- | ---: | :---: |
+| 9 | 0 | 1 |
+
+
+---------------------
+## Nowcoder
+### 剑指offer
+| Title | Python | Java | C++ |
+|:---:|:---:|:---:|:---:|
+替换空格|[Python](https://github.com/s969966195/OJ/1.替换空格/nowcoder.py)|To Do|[C++](https://github.com/s969966195/OJ/1.替换空格/nowcoder.cpp)|
+二维数组中的查找|[Python](https://github.com/s969966195/OJ/1.二维数组中的查找/nowcoder.py)|To Do|To Do|
+变态跳台阶|[Python](https://github.com/s969966195/OJ/1.变态跳台阶/nowcoder.py)|To Do|To Do|
+跳台阶|[Python](https://github.com/s969966195/OJ/1.跳台阶/nowcoder.py)|To Do|To Do|
+旋转数组的最小数字|[Python](https://github.com/s969966195/OJ/1.旋转数组的最小数字/nowcoder.py)|To Do|To Do|
+用两个栈实现队列|[Python](https://github.com/s969966195/OJ/1.用两个栈实现队列/nowcoder.py)|To Do|To Do|
+重建二叉树|[Python](https://github.com/s969966195/OJ/1.重建二叉树/nowcoder.py)|To Do|To Do|
+从头到尾打印链表|[Python](https://github.com/s969966195/OJ/1.从头到尾打印链表/nowcoder.py)|To Do|To Do|
+斐波那契数列|[Python](https://github.com/s969966195/OJ/1.斐波那契数列/nowcoder.py)|To Do|To Do|
