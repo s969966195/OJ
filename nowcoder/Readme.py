@@ -18,9 +18,8 @@ class Readme(object):
         file_path = os.getcwd() + '/README.md'
 
         with open(file_path, 'a') as f:
+            f.write('\n\n## Nowcoder\n')
             f.write(self.msg)
-            f.write('\n---------------------\n')
-            f.write('## Nowcoder\n')
             for subject in subjects.values():
                 f.write('### {}\n'.format(subject))
                 f.write('| Title | Python | Java | C++ |\n')

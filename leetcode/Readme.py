@@ -19,9 +19,8 @@ class Readme(object):
     def create_leetcode_readme(self, table_instance):
         file_path = os.getcwd() + '/README.md'
         with open(file_path, 'a') as f:
-            f.write(self.msg)
-            f.write('\n---------------------\n')
             f.write('## LeetCode\n')
+            f.write(self.msg)
             f.write('| ID | Title | Difficulty | Python | Java | C++ |\n')
             f.write('|:---:' * 6 + '|\n')
             table, table_item = table_instance

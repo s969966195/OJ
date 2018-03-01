@@ -1,9 +1,10 @@
 # OJ
-Until 2018-03-01 17:13:20
+Until 2018-03-01 17:20:29
 - [LeetCode](#leetcode)
 - [NowCoder](#nowcoder)
 
 ---------------------
+## LeetCode
 Completed: **1** / **706**
 
 Completed: 
@@ -12,12 +13,9 @@ Completed:
 | --- | ---: | :---: |
 | 1 | 0 | 0 |
 
-
----------------------
-## LeetCode
 | ID | Title | Difficulty | Python | Java | C++ |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|001|[Two Sum](https://leetcode.com/problems/two-sum/description/) |Easy|[Python](https://github.com/s969966195/OJ/001.%20Two%20Sum/Two%20Sum.py)|To Do|To Do|
+|001|[Two Sum](https://leetcode.com/problems/two-sum/description/) |Easy|[Python](https://github.com/s969966195/OJ/blob/master/leetcode_subjects/001.%20Two%20Sum/Two%20Sum.py)|To Do|To Do|
 |002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) |Medium|To Do|To Do|To Do|
 |003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |Medium|To Do|To Do|To Do|
 |004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) |Hard|To Do|To Do|To Do|
@@ -723,6 +721,9 @@ Completed:
 |789|[Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts/description/) |Medium|To Do|To Do|To Do|
 |790|[Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/description/) |Medium|To Do|To Do|To Do|
 |791|[Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/) |Medium|To Do|To Do|To Do|
+
+
+## Nowcoder
 Completed: **9**
 
 Completed: 
@@ -731,18 +732,15 @@ Completed:
 | --- | ---: | :---: |
 | 9 | 0 | 1 |
 
-
----------------------
-## Nowcoder
 ### 剑指offer
 | Title | Python | Java | C++ |
 |:---:|:---:|:---:|:---:|
-替换空格|[Python](https://github.com/s969966195/OJ/1.替换空格/nowcoder.py)|To Do|[C++](https://github.com/s969966195/OJ/1.替换空格/nowcoder.cpp)|
-二维数组中的查找|[Python](https://github.com/s969966195/OJ/1.二维数组中的查找/nowcoder.py)|To Do|To Do|
-变态跳台阶|[Python](https://github.com/s969966195/OJ/1.变态跳台阶/nowcoder.py)|To Do|To Do|
-跳台阶|[Python](https://github.com/s969966195/OJ/1.跳台阶/nowcoder.py)|To Do|To Do|
-旋转数组的最小数字|[Python](https://github.com/s969966195/OJ/1.旋转数组的最小数字/nowcoder.py)|To Do|To Do|
-用两个栈实现队列|[Python](https://github.com/s969966195/OJ/1.用两个栈实现队列/nowcoder.py)|To Do|To Do|
-重建二叉树|[Python](https://github.com/s969966195/OJ/1.重建二叉树/nowcoder.py)|To Do|To Do|
-从头到尾打印链表|[Python](https://github.com/s969966195/OJ/1.从头到尾打印链表/nowcoder.py)|To Do|To Do|
-斐波那契数列|[Python](https://github.com/s969966195/OJ/1.斐波那契数列/nowcoder.py)|To Do|To Do|
+替换空格|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.替换空格/nowcoder.py)|To Do|[C++](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.替换空格/nowcoder.cpp)|
+二维数组中的查找|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.二维数组中的查找/nowcoder.py)|To Do|To Do|
+变态跳台阶|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.变态跳台阶/nowcoder.py)|To Do|To Do|
+跳台阶|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.跳台阶/nowcoder.py)|To Do|To Do|
+旋转数组的最小数字|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.旋转数组的最小数字/nowcoder.py)|To Do|To Do|
+用两个栈实现队列|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.用两个栈实现队列/nowcoder.py)|To Do|To Do|
+重建二叉树|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.重建二叉树/nowcoder.py)|To Do|To Do|
+从头到尾打印链表|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.从头到尾打印链表/nowcoder.py)|To Do|To Do|
+斐波那契数列|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.斐波那契数列/nowcoder.py)|To Do|To Do|
