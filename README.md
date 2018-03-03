@@ -1,5 +1,5 @@
 # OJ
-Until 2018-03-03 15:11:28
+Until 2018-03-03 18:39:27
 
 这个项目可以让你的github瓷砖变得很好看  (;￢＿￢)   
 - [LeetCode](#leetcode)
@@ -726,13 +726,13 @@ Completed:
 
 
 ## Nowcoder
-Completed: **12**
+Completed: **13**
 
 Completed: 
 
 | Python | Java | C++ |
 | --- | ---: | :---: |
-| 12 | 1 | 1 |
+| 13 | 1 | 1 |
 
 ### 剑指offer
 | Title | Python | Java | C++ |
@@ -742,6 +742,7 @@ Completed:
 二进制中1的个数|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.二进制中1的个数/nowcoder.py)|[Java](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.二进制中1的个数/nowcoder.java)|To Do|
 数值的整数次方|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.数值的整数次方/nowcoder.py)|To Do|To Do|
 二维数组中的查找|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.二维数组中的查找/nowcoder.py)|To Do|To Do|
+调整数组顺序使奇数位于偶数前面|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.调整数组顺序使奇数位于偶数前面/nowcoder.py)|To Do|To Do|
 变态跳台阶|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.变态跳台阶/nowcoder.py)|To Do|To Do|
 跳台阶|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.跳台阶/nowcoder.py)|To Do|To Do|
 旋转数组的最小数字|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.旋转数组的最小数字/nowcoder.py)|To Do|To Do|
