@@ -1,5 +1,5 @@
 # OJ
-Until 2018-03-03 18:39:27
+Until 2018-03-04 14:36:03
 
 这个项目可以让你的github瓷砖变得很好看  (;￢＿￢)   
 - [LeetCode](#leetcode)
@@ -7,7 +7,7 @@ Until 2018-03-03 18:39:27
 
 ---------------------
 ## LeetCode
-Completed: **1** / **706**
+Completed: **1** / **710**
 
 Completed: 
 
@@ -723,16 +723,20 @@ Completed:
 |789|[Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts/description/) |Medium|To Do|To Do|To Do|
 |790|[Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/description/) |Medium|To Do|To Do|To Do|
 |791|[Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/) |Medium|To Do|To Do|To Do|
+|792|[Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/description/) |Medium|To Do|To Do|To Do|
+|793|[Preimage Size of Factorial Zeroes Function](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/description/) |Hard|To Do|To Do|To Do|
+|794|[Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state/description/) |Medium|To Do|To Do|To Do|
+|795|[Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/description/) |Medium|To Do|To Do|To Do|
 
 
 ## Nowcoder
-Completed: **13**
+Completed: **14**
 
 Completed: 
 
 | Python | Java | C++ |
 | --- | ---: | :---: |
-| 13 | 1 | 1 |
+| 14 | 1 | 1 |
 
 ### 剑指offer
 | Title | Python | Java | C++ |
@@ -746,6 +750,7 @@ Completed:
 变态跳台阶|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.变态跳台阶/nowcoder.py)|To Do|To Do|
 跳台阶|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.跳台阶/nowcoder.py)|To Do|To Do|
 旋转数组的最小数字|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.旋转数组的最小数字/nowcoder.py)|To Do|To Do|
+链表中倒数第k个结点|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.链表中倒数第k个结点/nowcoder.py)|To Do|To Do|
 用两个栈实现队列|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.用两个栈实现队列/nowcoder.py)|To Do|To Do|
 重建二叉树|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.重建二叉树/nowcoder.py)|To Do|To Do|
 从头到尾打印链表|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.从头到尾打印链表/nowcoder.py)|To Do|To Do|
