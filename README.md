@@ -1,5 +1,5 @@
 # OJ
-Until 2018-03-04 14:36:03
+Until 2018-03-04 15:30:59
 
 这个项目可以让你的github瓷砖变得很好看  (;￢＿￢)   
 - [LeetCode](#leetcode)
@@ -730,19 +730,21 @@ Completed:
 
 
 ## Nowcoder
-Completed: **14**
+Completed: **16**
 
 Completed: 
 
 | Python | Java | C++ |
 | --- | ---: | :---: |
-| 14 | 1 | 1 |
+| 16 | 1 | 1 |
 
 ### 剑指offer
 | Title | Python | Java | C++ |
 |:---:|:---:|:---:|:---:|
 替换空格|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.替换空格/nowcoder.py)|To Do|[C++](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.替换空格/nowcoder.cpp)|
 矩形覆盖|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.矩形覆盖/nowcoder.py)|To Do|To Do|
+反转链表|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.反转链表/nowcoder.py)|To Do|To Do|
+合并两个排序的链表|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.合并两个排序的链表/nowcoder.py)|To Do|To Do|
 二进制中1的个数|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.二进制中1的个数/nowcoder.py)|[Java](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.二进制中1的个数/nowcoder.java)|To Do|
 数值的整数次方|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.数值的整数次方/nowcoder.py)|To Do|To Do|
 二维数组中的查找|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.二维数组中的查找/nowcoder.py)|To Do|To Do|
