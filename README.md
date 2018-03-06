@@ -1,5 +1,5 @@
 # OJ
-Until 2018-03-05 20:20:57
+Until 2018-03-06 09:57:44
 
 这个项目可以让你的github瓷砖变得很好看  (;￢＿￢)   
 - [LeetCode](#leetcode)
@@ -730,13 +730,13 @@ Completed:
 
 
 ## Nowcoder
-Completed: **19**
+Completed: **22**
 
 Completed: 
 
 | Python | Java | C++ |
 | --- | ---: | :---: |
-| 19 | 1 | 1 |
+| 22 | 1 | 1 |
 
 ### 剑指offer
 | Title | Python | Java | C++ |
@@ -755,8 +755,11 @@ Completed:
 旋转数组的最小数字|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.旋转数组的最小数字/nowcoder.py)|To Do|To Do|
 链表中倒数第k个结点|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.链表中倒数第k个结点/nowcoder.py)|To Do|To Do|
 顺时打印矩阵|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.顺时打印矩阵/nowcoder.py)|To Do|To Do|
+包含min函数的栈|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.包含min函数的栈/nowcoder.py)|To Do|To Do|
 二叉树的镜像|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.二叉树的镜像/nowcoder.py)|To Do|To Do|
 用两个栈实现队列|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.用两个栈实现队列/nowcoder.py)|To Do|To Do|
+从上往下打印二叉树|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.从上往下打印二叉树/nowcoder.py)|To Do|To Do|
 重建二叉树|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.重建二叉树/nowcoder.py)|To Do|To Do|
 从头到尾打印链表|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.从头到尾打印链表/nowcoder.py)|To Do|To Do|
+栈的压入、弹出序列|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.栈的压入、弹出序列/nowcoder.py)|To Do|To Do|
 斐波那契数列|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.斐波那契数列/nowcoder.py)|To Do|To Do|
