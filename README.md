@@ -1,5 +1,5 @@
 # OJ
-Until 2018-03-07 22:23:44
+Until 2018-03-08 10:05:08
 
 这个项目可以让你的github瓷砖变得很好看  (;￢＿￢)   
 - [LeetCode](#leetcode)
@@ -730,13 +730,13 @@ Completed:
 
 
 ## Nowcoder
-Completed: **25**
+Completed: **27**
 
 Completed: 
 
 | Python | Java | C++ |
 | --- | ---: | :---: |
-| 25 | 1 | 1 |
+| 27 | 1 | 1 |
 
 ### 剑指offer
 | Title | Python | Java | C++ |
@@ -763,6 +763,8 @@ Completed:
 用两个栈实现队列|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.用两个栈实现队列/nowcoder.py)|To Do|To Do|
 从上往下打印二叉树|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.从上往下打印二叉树/nowcoder.py)|To Do|To Do|
 重建二叉树|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.重建二叉树/nowcoder.py)|To Do|To Do|
+二叉搜索树与双向链表|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.二叉搜索树与双向链表/nowcoder.py)|To Do|To Do|
 从头到尾打印链表|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.从头到尾打印链表/nowcoder.py)|To Do|To Do|
 栈的压入、弹出序列|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.栈的压入、弹出序列/nowcoder.py)|To Do|To Do|
 斐波那契数列|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.斐波那契数列/nowcoder.py)|To Do|To Do|
+字符串的排列|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.字符串的排列/nowcoder.py)|To Do|To Do|
