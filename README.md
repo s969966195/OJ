@@ -1,5 +1,5 @@
 # OJ
-Until 2018-03-10 16:18:32
+Until 2018-03-10 16:29:37
 
 这个项目可以让你的github瓷砖变得很好看  (;￢＿￢)   
 - [LeetCode](#leetcode)
@@ -730,13 +730,13 @@ Completed:
 
 
 ## Nowcoder
-Completed: **27**
+Completed: **28**
 
 Completed: 
 
 | Python | Java | C++ |
 | --- | ---: | :---: |
-| 27 | 1 | 1 |
+| 28 | 1 | 1 |
 
 ### 剑指offer
 | Title | Python | Java | C++ |
@@ -760,6 +760,7 @@ Completed:
 包含min函数的栈|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.包含min函数的栈/nowcoder.py)|To Do|To Do|
 二叉树的镜像|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.二叉树的镜像/nowcoder.py)|To Do|To Do|
 二叉搜索树的后序遍历序列|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.二叉搜索树的后序遍历序列/nowcoder.py)|To Do|To Do|
+数组中出现次数超过一半的数字|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.数组中出现次数超过一半的数字/nowcoder.py)|To Do|To Do|
 用两个栈实现队列|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.用两个栈实现队列/nowcoder.py)|To Do|To Do|
 从上往下打印二叉树|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.从上往下打印二叉树/nowcoder.py)|To Do|To Do|
 重建二叉树|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.重建二叉树/nowcoder.py)|To Do|To Do|
