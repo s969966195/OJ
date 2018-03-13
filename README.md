@@ -1,5 +1,5 @@
 # OJ
-Until 2018-03-11 15:57:30
+Until 2018-03-13 10:04:28
 
 这个项目可以让你的github瓷砖变得很好看  (;￢＿￢)   
 - [LeetCode](#leetcode)
@@ -729,18 +729,18 @@ Completed:
 |795|[Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/description/) |Medium|To Do|To Do|To Do|
 |796|[Rotate String](https://leetcode.com/problems/rotate-string/description/) |Easy|To Do|To Do|To Do|
 |797|[All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/description/) |Medium|To Do|To Do|To Do|
-|798|[Smallest Rotation with Highest Score](https://leetcode.com/problems/smallest-rotation-with-highest-score/description/) |Medium|To Do|To Do|To Do|
+|798|[Smallest Rotation with Highest Score](https://leetcode.com/problems/smallest-rotation-with-highest-score/description/) |Hard|To Do|To Do|To Do|
 |799|[Champagne Tower](https://leetcode.com/problems/champagne-tower/description/) |Medium|To Do|To Do|To Do|
 
 
 ## Nowcoder
-Completed: **31**
+Completed: **32**
 
 Completed: 
 
 | Python | Java | C++ |
 | --- | ---: | :---: |
-| 31 | 1 | 1 |
+| 32 | 1 | 1 |
 
 ### 剑指offer
 | Title | Python | Java | C++ |
@@ -751,6 +751,7 @@ Completed:
 最小的K个数|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.最小的K个数/nowcoder.py)|To Do|To Do|
 整数中1出现的次数|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.整数中1出现的次数/nowcoder.py)|To Do|To Do|
 反转链表|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.反转链表/nowcoder.py)|To Do|To Do|
+把数组排成最小的数|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.把数组排成最小的数/nowcoder.py)|To Do|To Do|
 合并两个排序的链表|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.合并两个排序的链表/nowcoder.py)|To Do|To Do|
 二进制中1的个数|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.二进制中1的个数/nowcoder.py)|[Java](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.二进制中1的个数/nowcoder.java)|To Do|
 复杂链表的复制|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.复杂链表的复制/nowcoder.py)|To Do|To Do|
