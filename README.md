@@ -1,5 +1,5 @@
 # OJ
-Until 2018-03-19 09:19:34
+Until 2018-03-21 21:00:49
 
 这个项目可以让你的github瓷砖变得很好看  (;￢＿￢)   
 - [LeetCode](#leetcode)
@@ -7,7 +7,7 @@ Until 2018-03-19 09:19:34
 
 ---------------------
 ## LeetCode
-Completed: **1** / **714**
+Completed: **1** / **718**
 
 Completed: 
 
@@ -731,20 +731,25 @@ Completed:
 |797|[All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/description/) |Medium|To Do|To Do|To Do|
 |798|[Smallest Rotation with Highest Score](https://leetcode.com/problems/smallest-rotation-with-highest-score/description/) |Hard|To Do|To Do|To Do|
 |799|[Champagne Tower](https://leetcode.com/problems/champagne-tower/description/) |Medium|To Do|To Do|To Do|
+|800|[Similar RGB Color](https://leetcode.com/problems/similar-rgb-color/description/) :lock:|Easy|To Do|To Do|To Do|
+|801|[Minimum Swaps To Make Sequences Increasing](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/description/) |Medium|To Do|To Do|To Do|
+|802|[Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/description/) |Medium|To Do|To Do|To Do|
+|803|[Bricks Falling When Hit](https://leetcode.com/problems/bricks-falling-when-hit/description/) |Hard|To Do|To Do|To Do|
 
 
 ## Nowcoder
-Completed: **38**
+Completed: **39**
 
 Completed: 
 
 | Python | Java | C++ |
 | --- | ---: | :---: |
-| 38 | 1 | 1 |
+| 39 | 1 | 1 |
 
 ### 剑指offer
 | Title | Python | Java | C++ |
 |:---:|:---:|:---:|:---:|
+平衡二叉树|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.平衡二叉树/nowcoder.py)|To Do|To Do|
 替换空格|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.替换空格/nowcoder.py)|To Do|[C++](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.替换空格/nowcoder.cpp)|
 连续子数组的最大和|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.连续子数组的最大和/nowcoder.py)|To Do|To Do|
 矩形覆盖|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.矩形覆盖/nowcoder.py)|To Do|To Do|
