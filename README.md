@@ -1,5 +1,5 @@
 # OJ
-Until 2018-03-21 21:00:49
+Until 2018-03-22 08:57:25
 
 这个项目可以让你的github瓷砖变得很好看  (;￢＿￢)   
 - [LeetCode](#leetcode)
@@ -738,13 +738,13 @@ Completed:
 
 
 ## Nowcoder
-Completed: **39**
+Completed: **40**
 
 Completed: 
 
 | Python | Java | C++ |
 | --- | ---: | :---: |
-| 39 | 1 | 1 |
+| 40 | 1 | 1 |
 
 ### 剑指offer
 | Title | Python | Java | C++ |
@@ -765,6 +765,7 @@ Completed:
 二维数组中的查找|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.二维数组中的查找/nowcoder.py)|To Do|To Do|
 树的子结构|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.树的子结构/nowcoder.py)|To Do|To Do|
 调整数组顺序使奇数位于偶数前面|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.调整数组顺序使奇数位于偶数前面/nowcoder.py)|To Do|To Do|
+数组中只出现一次的数字|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.数组中只出现一次的数字/nowcoder.py)|To Do|To Do|
 两个链表的第一个公共结点|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.两个链表的第一个公共结点/nowcoder.py)|To Do|To Do|
 变态跳台阶|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.变态跳台阶/nowcoder.py)|To Do|To Do|
 跳台阶|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.跳台阶/nowcoder.py)|To Do|To Do|
