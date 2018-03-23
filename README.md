@@ -1,5 +1,5 @@
 # OJ
-Until 2018-03-22 08:57:25
+Until 2018-03-23 08:42:56
 
 这个项目可以让你的github瓷砖变得很好看  (;￢＿￢)   
 - [LeetCode](#leetcode)
@@ -738,13 +738,13 @@ Completed:
 
 
 ## Nowcoder
-Completed: **40**
+Completed: **41**
 
 Completed: 
 
 | Python | Java | C++ |
 | --- | ---: | :---: |
-| 40 | 1 | 1 |
+| 41 | 1 | 1 |
 
 ### 剑指offer
 | Title | Python | Java | C++ |
@@ -753,6 +753,7 @@ Completed:
 替换空格|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.替换空格/nowcoder.py)|To Do|[C++](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.替换空格/nowcoder.cpp)|
 连续子数组的最大和|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.连续子数组的最大和/nowcoder.py)|To Do|To Do|
 矩形覆盖|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.矩形覆盖/nowcoder.py)|To Do|To Do|
+和为S的连续正数序列|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.和为S的连续正数序列/nowcoder.py)|To Do|To Do|
 最小的K个数|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.最小的K个数/nowcoder.py)|To Do|To Do|
 整数中1出现的次数|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.整数中1出现的次数/nowcoder.py)|To Do|To Do|
 反转链表|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.反转链表/nowcoder.py)|To Do|To Do|
