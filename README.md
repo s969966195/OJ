@@ -1,5 +1,5 @@
 # OJ
-Until 2018-03-24 16:25:25
+Until 2018-03-25 21:02:34
 
 这个项目可以让你的github瓷砖变得很好看  (;￢＿￢)   
 - [LeetCode](#leetcode)
@@ -7,7 +7,7 @@ Until 2018-03-24 16:25:25
 
 ---------------------
 ## LeetCode
-Completed: **1** / **718**
+Completed: **1** / **722**
 
 Completed: 
 
@@ -735,16 +735,20 @@ Completed:
 |801|[Minimum Swaps To Make Sequences Increasing](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/description/) |Medium|To Do|To Do|To Do|
 |802|[Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/description/) |Medium|To Do|To Do|To Do|
 |803|[Bricks Falling When Hit](https://leetcode.com/problems/bricks-falling-when-hit/description/) |Hard|To Do|To Do|To Do|
+|804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) |Easy|To Do|To Do|To Do|
+|805|[Split Array With Same Average](https://leetcode.com/problems/split-array-with-same-average/description/) |Hard|To Do|To Do|To Do|
+|806|[Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/description/) |Easy|To Do|To Do|To Do|
+|807|[Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/description/) |Medium|To Do|To Do|To Do|
 
 
 ## Nowcoder
-Completed: **42**
+Completed: **43**
 
 Completed: 
 
 | Python | Java | C++ |
 | --- | ---: | :---: |
-| 42 | 1 | 1 |
+| 43 | 1 | 1 |
 
 ### 剑指offer
 | Title | Python | Java | C++ |
@@ -753,6 +757,7 @@ Completed:
 替换空格|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.替换空格/nowcoder.py)|To Do|[C++](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.替换空格/nowcoder.cpp)|
 连续子数组的最大和|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.连续子数组的最大和/nowcoder.py)|To Do|To Do|
 矩形覆盖|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.矩形覆盖/nowcoder.py)|To Do|To Do|
+左旋转字符串|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.左旋转字符串/nowcoder.py)|To Do|To Do|
 和为S的连续正数序列|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.和为S的连续正数序列/nowcoder.py)|To Do|To Do|
 最小的K个数|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.最小的K个数/nowcoder.py)|To Do|To Do|
 整数中1出现的次数|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.整数中1出现的次数/nowcoder.py)|To Do|To Do|
