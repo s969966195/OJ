@@ -1,5 +1,5 @@
 # OJ
-Until 2018-03-26 15:14:08
+Until 2018-03-26 16:25:23
 
 这个项目可以让你的github瓷砖变得很好看  (;￢＿￢)   
 - [LeetCode](#leetcode)
@@ -742,13 +742,13 @@ Completed:
 
 
 ## Nowcoder
-Completed: **47**
+Completed: **48**
 
 Completed: 
 
 | Python | Java | C++ |
 | --- | ---: | :---: |
-| 47 | 1 | 1 |
+| 48 | 1 | 1 |
 
 ### 剑指offer
 | Title | Python | Java | C++ |
@@ -797,6 +797,7 @@ Completed:
 第一个只出现一次的字符|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.第一个只出现一次的字符/nowcoder.py)|To Do|To Do|
 从头到尾打印链表|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.从头到尾打印链表/nowcoder.py)|To Do|To Do|
 栈的压入、弹出序列|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.栈的压入、弹出序列/nowcoder.py)|To Do|To Do|
+不用加减乘除做加法|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.不用加减乘除做加法/nowcoder.py)|To Do|To Do|
 数组中的逆序对|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.数组中的逆序对/nowcoder.py)|To Do|To Do|
 斐波那契数列|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.斐波那契数列/nowcoder.py)|To Do|To Do|
 字符串的排列|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.字符串的排列/nowcoder.py)|To Do|To Do|
