@@ -1,5 +1,5 @@
 # OJ
-Until 2018-03-26 14:03:37
+Until 2018-03-26 14:17:34
 
 这个项目可以让你的github瓷砖变得很好看  (;￢＿￢)   
 - [LeetCode](#leetcode)
@@ -742,13 +742,13 @@ Completed:
 
 
 ## Nowcoder
-Completed: **44**
+Completed: **45**
 
 Completed: 
 
 | Python | Java | C++ |
 | --- | ---: | :---: |
-| 44 | 1 | 1 |
+| 45 | 1 | 1 |
 
 ### 剑指offer
 | Title | Python | Java | C++ |
@@ -770,6 +770,7 @@ Completed:
 数值的整数次方|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.数值的整数次方/nowcoder.py)|To Do|To Do|
 二维数组中的查找|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.二维数组中的查找/nowcoder.py)|To Do|To Do|
 树的子结构|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.树的子结构/nowcoder.py)|To Do|To Do|
+扑克牌顺子|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.扑克牌顺子/nowcoder.py)|To Do|To Do|
 调整数组顺序使奇数位于偶数前面|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.调整数组顺序使奇数位于偶数前面/nowcoder.py)|To Do|To Do|
 数组中只出现一次的数字|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.数组中只出现一次的数字/nowcoder.py)|To Do|To Do|
 两个链表的第一个公共结点|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.两个链表的第一个公共结点/nowcoder.py)|To Do|To Do|
