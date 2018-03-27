@@ -1,5 +1,5 @@
 # OJ
-Until 2018-03-26 16:27:31
+Until 2018-03-27 20:51:35
 
 这个项目可以让你的github瓷砖变得很好看  (;￢＿￢)   
 - [LeetCode](#leetcode)
@@ -742,13 +742,13 @@ Completed:
 
 
 ## Nowcoder
-Completed: **48**
+Completed: **49**
 
 Completed: 
 
 | Python | Java | C++ |
 | --- | ---: | :---: |
-| 48 | 1 | 1 |
+| 49 | 1 | 1 |
 
 ### 剑指offer
 | Title | Python | Java | C++ |
@@ -781,6 +781,7 @@ Completed:
 二叉树的深度|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.二叉树的深度/nowcoder.py)|To Do|To Do|
 求1+2+3+|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.求1+2+3+...+n/nowcoder.py)|To Do|To Do|
 翻转单词顺序列|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.翻转单词顺序列/nowcoder.py)|To Do|To Do|
+把字符串转换成整数|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.把字符串转换成整数/nowcoder.py)|To Do|To Do|
 旋转数组的最小数字|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.旋转数组的最小数字/nowcoder.py)|To Do|To Do|
 链表中倒数第k个结点|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.链表中倒数第k个结点/nowcoder.py)|To Do|To Do|
 顺时打印矩阵|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.顺时打印矩阵/nowcoder.py)|To Do|To Do|
