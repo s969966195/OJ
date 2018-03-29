@@ -1,5 +1,5 @@
 # OJ
-Until 2018-03-28 22:34:03
+Until 2018-03-29 08:52:35
 
 这个项目可以让你的github瓷砖变得很好看  (;￢＿￢)   
 - [LeetCode](#leetcode)
@@ -742,19 +742,20 @@ Completed:
 
 
 ## Nowcoder
-Completed: **50**
+Completed: **51**
 
 Completed: 
 
 | Python | Java | C++ |
 | --- | ---: | :---: |
-| 50 | 1 | 1 |
+| 51 | 1 | 1 |
 
 ### 剑指offer
 | Title | Python | Java | C++ |
 |:---:|:---:|:---:|:---:|
 平衡二叉树|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.平衡二叉树/nowcoder.py)|To Do|To Do|
 数组中重复的数字|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.数组中重复的数字/nowcoder.py)|To Do|To Do|
+构建乘积数组|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.构建乘积数组/nowcoder.py)|To Do|To Do|
 替换空格|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.替换空格/nowcoder.py)|To Do|[C++](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.替换空格/nowcoder.cpp)|
 连续子数组的最大和|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.连续子数组的最大和/nowcoder.py)|To Do|To Do|
 矩形覆盖|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.矩形覆盖/nowcoder.py)|To Do|To Do|
