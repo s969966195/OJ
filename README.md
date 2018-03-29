@@ -1,5 +1,5 @@
 # OJ
-Until 2018-03-29 22:33:30
+Until 2018-03-29 23:00:24
 
 这个项目可以让你的github瓷砖变得很好看  (;￢＿￢)   
 - [LeetCode](#leetcode)
@@ -742,13 +742,13 @@ Completed:
 
 
 ## Nowcoder
-Completed: **52**
+Completed: **53**
 
 Completed: 
 
 | Python | Java | C++ |
 | --- | ---: | :---: |
-| 52 | 1 | 1 |
+| 53 | 1 | 1 |
 
 ### 剑指offer
 | Title | Python | Java | C++ |
@@ -796,6 +796,7 @@ Completed:
 从上往下打印二叉树|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.从上往下打印二叉树/nowcoder.py)|To Do|To Do|
 重建二叉树|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.重建二叉树/nowcoder.py)|To Do|To Do|
 二叉搜索树与双向链表|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.二叉搜索树与双向链表/nowcoder.py)|To Do|To Do|
+表示数值的字符串|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.表示数值的字符串/nowcoder.py)|To Do|To Do|
 和为S的两个数字|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.和为S的两个数字/nowcoder.py)|To Do|To Do|
 数字在排序数组中出现的次数|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.数字在排序数组中出现的次数/nowcoder.py)|To Do|To Do|
 第一个只出现一次的字符|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.第一个只出现一次的字符/nowcoder.py)|To Do|To Do|
