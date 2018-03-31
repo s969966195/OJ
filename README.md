@@ -1,5 +1,5 @@
 # OJ
-Until 2018-03-30 09:04:42
+Until 2018-03-31 09:05:52
 
 这个项目可以让你的github瓷砖变得很好看  (;￢＿￢)   
 - [LeetCode](#leetcode)
@@ -742,13 +742,13 @@ Completed:
 
 
 ## Nowcoder
-Completed: **54**
+Completed: **55**
 
 Completed: 
 
 | Python | Java | C++ |
 | --- | ---: | :---: |
-| 54 | 1 | 1 |
+| 55 | 1 | 1 |
 
 ### 剑指offer
 | Title | Python | Java | C++ |
@@ -779,6 +779,7 @@ Completed:
 两个链表的第一个公共结点|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.两个链表的第一个公共结点/nowcoder.py)|To Do|To Do|
 变态跳台阶|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.变态跳台阶/nowcoder.py)|To Do|To Do|
 跳台阶|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.跳台阶/nowcoder.py)|To Do|To Do|
+链表中环的入口结点|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.链表中环的入口结点/nowcoder.py)|To Do|To Do|
 二叉树中和为某一值的路径|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.二叉树中和为某一值的路径/nowcoder.py)|To Do|To Do|
 二叉树的深度|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.二叉树的深度/nowcoder.py)|To Do|To Do|
 求1+2+3+|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.求1+2+3+...+n/nowcoder.py)|To Do|To Do|
