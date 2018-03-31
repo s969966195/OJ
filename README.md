@@ -1,5 +1,5 @@
 # OJ
-Until 2018-03-31 09:05:52
+Until 2018-03-31 09:17:21
 
 这个项目可以让你的github瓷砖变得很好看  (;￢＿￢)   
 - [LeetCode](#leetcode)
@@ -742,13 +742,13 @@ Completed:
 
 
 ## Nowcoder
-Completed: **55**
+Completed: **56**
 
 Completed: 
 
 | Python | Java | C++ |
 | --- | ---: | :---: |
-| 55 | 1 | 1 |
+| 56 | 1 | 1 |
 
 ### 剑指offer
 | Title | Python | Java | C++ |
@@ -767,6 +767,7 @@ Completed:
 把数组排成最小的数|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.把数组排成最小的数/nowcoder.py)|To Do|To Do|
 合并两个排序的链表|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.合并两个排序的链表/nowcoder.py)|To Do|To Do|
 丑数|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.丑数/nowcoder.py)|To Do|To Do|
+删除链表中重复的结点|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.删除链表中重复的结点/nowcoder.py)|To Do|To Do|
 孩子们的游戏(圆圈中最后剩下的数)|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.孩子们的游戏(圆圈中最后剩下的数)/nowcoder.py)|To Do|To Do|
 二进制中1的个数|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.二进制中1的个数/nowcoder.py)|[Java](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.二进制中1的个数/nowcoder.java)|To Do|
 复杂链表的复制|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.复杂链表的复制/nowcoder.py)|To Do|To Do|
