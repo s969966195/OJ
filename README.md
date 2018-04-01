@@ -1,5 +1,5 @@
 # OJ
-Until 2018-04-01 22:51:52
+Until 2018-04-01 23:43:04
 
 这个项目可以让你的github瓷砖变得很好看  (;￢＿￢)   
 - [LeetCode](#leetcode)
@@ -746,13 +746,13 @@ Completed:
 
 
 ## Nowcoder
-Completed: **58**
+Completed: **59**
 
 Completed: 
 
 | Python | Java | C++ |
 | --- | ---: | :---: |
-| 58 | 1 | 1 |
+| 59 | 1 | 1 |
 
 ### 剑指offer
 | Title | Python | Java | C++ |
@@ -766,6 +766,7 @@ Completed:
 左旋转字符串|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.左旋转字符串/nowcoder.py)|To Do|To Do|
 和为S的连续正数序列|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.和为S的连续正数序列/nowcoder.py)|To Do|To Do|
 最小的K个数|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.最小的K个数/nowcoder.py)|To Do|To Do|
+按之字形顺序打印二叉树|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.按之字形顺序打印二叉树/nowcoder.py)|To Do|To Do|
 整数中1出现的次数|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.整数中1出现的次数/nowcoder.py)|To Do|To Do|
 反转链表|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.反转链表/nowcoder.py)|To Do|To Do|
 把数组排成最小的数|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.把数组排成最小的数/nowcoder.py)|To Do|To Do|
