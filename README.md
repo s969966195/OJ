@@ -1,5 +1,5 @@
 # OJ
-Until 2018-03-31 09:17:21
+Until 2018-04-01 22:42:33
 
 这个项目可以让你的github瓷砖变得很好看  (;￢＿￢)   
 - [LeetCode](#leetcode)
@@ -7,7 +7,7 @@ Until 2018-03-31 09:17:21
 
 ---------------------
 ## LeetCode
-Completed: **1** / **722**
+Completed: **1** / **726**
 
 Completed: 
 
@@ -739,16 +739,20 @@ Completed:
 |805|[Split Array With Same Average](https://leetcode.com/problems/split-array-with-same-average/description/) |Hard|To Do|To Do|To Do|
 |806|[Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/description/) |Easy|To Do|To Do|To Do|
 |807|[Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/description/) |Medium|To Do|To Do|To Do|
+|808|[Soup Servings](https://leetcode.com/problems/soup-servings/description/) |Medium|To Do|To Do|To Do|
+|809|[Expressive Words](https://leetcode.com/problems/expressive-words/description/) |Medium|To Do|To Do|To Do|
+|810|[Chalkboard XOR Game](https://leetcode.com/problems/chalkboard-xor-game/description/) |Hard|To Do|To Do|To Do|
+|811|[Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/) |Easy|To Do|To Do|To Do|
 
 
 ## Nowcoder
-Completed: **56**
+Completed: **57**
 
 Completed: 
 
 | Python | Java | C++ |
 | --- | ---: | :---: |
-| 56 | 1 | 1 |
+| 57 | 1 | 1 |
 
 ### 剑指offer
 | Title | Python | Java | C++ |
@@ -797,6 +801,7 @@ Completed:
 字符流中第一个不重复的字符|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.字符流中第一个不重复的字符/nowcoder.py)|To Do|To Do|
 用两个栈实现队列|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.用两个栈实现队列/nowcoder.py)|To Do|To Do|
 从上往下打印二叉树|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.从上往下打印二叉树/nowcoder.py)|To Do|To Do|
+二叉树的下一个结点|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.二叉树的下一个结点/nowcoder.py)|To Do|To Do|
 重建二叉树|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.重建二叉树/nowcoder.py)|To Do|To Do|
 二叉搜索树与双向链表|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.二叉搜索树与双向链表/nowcoder.py)|To Do|To Do|
 表示数值的字符串|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.表示数值的字符串/nowcoder.py)|To Do|To Do|
