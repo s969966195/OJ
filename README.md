@@ -1,5 +1,5 @@
 # OJ
-Until 2018-04-01 23:43:04
+Until 2018-04-02 08:36:30
 
 这个项目可以让你的github瓷砖变得很好看  (;￢＿￢)   
 - [LeetCode](#leetcode)
@@ -746,13 +746,13 @@ Completed:
 
 
 ## Nowcoder
-Completed: **59**
+Completed: **60**
 
 Completed: 
 
 | Python | Java | C++ |
 | --- | ---: | :---: |
-| 59 | 1 | 1 |
+| 60 | 1 | 1 |
 
 ### 剑指offer
 | Title | Python | Java | C++ |
@@ -769,6 +769,7 @@ Completed:
 按之字形顺序打印二叉树|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.按之字形顺序打印二叉树/nowcoder.py)|To Do|To Do|
 整数中1出现的次数|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.整数中1出现的次数/nowcoder.py)|To Do|To Do|
 反转链表|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.反转链表/nowcoder.py)|To Do|To Do|
+把二叉树打印成多行|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.把二叉树打印成多行/nowcoder.py)|To Do|To Do|
 把数组排成最小的数|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.把数组排成最小的数/nowcoder.py)|To Do|To Do|
 合并两个排序的链表|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.合并两个排序的链表/nowcoder.py)|To Do|To Do|
 丑数|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.丑数/nowcoder.py)|To Do|To Do|
