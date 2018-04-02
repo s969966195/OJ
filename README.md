@@ -1,5 +1,5 @@
 # OJ
-Until 2018-04-02 09:51:21
+Until 2018-04-02 10:01:07
 
 这个项目可以让你的github瓷砖变得很好看  (;￢＿￢)   
 - [LeetCode](#leetcode)
@@ -746,13 +746,13 @@ Completed:
 
 
 ## Nowcoder
-Completed: **63**
+Completed: **64**
 
 Completed: 
 
 | Python | Java | C++ |
 | --- | ---: | :---: |
-| 63 | 1 | 1 |
+| 64 | 1 | 1 |
 
 ### 剑指offer
 | Title | Python | Java | C++ |
@@ -777,6 +777,7 @@ Completed:
 孩子们的游戏(圆圈中最后剩下的数)|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.孩子们的游戏(圆圈中最后剩下的数)/nowcoder.py)|To Do|To Do|
 二进制中1的个数|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.二进制中1的个数/nowcoder.py)|[Java](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.二进制中1的个数/nowcoder.java)|To Do|
 复杂链表的复制|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.复杂链表的复制/nowcoder.py)|To Do|To Do|
+滑动窗口的最大值|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.滑动窗口的最大值/nowcoder.py)|To Do|To Do|
 数值的整数次方|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.数值的整数次方/nowcoder.py)|To Do|To Do|
 二维数组中的查找|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.二维数组中的查找/nowcoder.py)|To Do|To Do|
 树的子结构|[Python](https://github.com/s969966195/OJ/blob/master/nowcoder_subjects/1.树的子结构/nowcoder.py)|To Do|To Do|
