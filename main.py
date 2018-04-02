@@ -19,7 +19,7 @@ def init_readme():
 if __name__ == '__main__':
     init_readme()
     print 'Readme初始化已完成...'
-    leetcode = LeetcodeTableInform()
-    leetcode.update_table('leetcode_subjects')
+#      leetcode = LeetcodeTableInform()
+#      leetcode.update_table('leetcode_subjects')
     nowcoder = NowcoderTableInform()
     nowcoder.update_table('nowcoder_subjects')
