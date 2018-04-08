@@ -1,5 +1,5 @@
 # OJ
-Until 2018-04-04 23:05:08
+Until 2018-04-08 23:29:40
 
 这个项目可以让你的github瓷砖变得很好看  (;￢＿￢)   
 - [LeetCode](#leetcode)
@@ -7,17 +7,17 @@ Until 2018-04-04 23:05:08
 
 ---------------------
 ## LeetCode
-Completed: **1** / **726**
+Completed: **1** / **730**
 
 Completed: 
 
 | Python | Java | C++ |
 | --- | ---: | :---: |
-| 1 | 0 | 1 |
+| 1 | 1 | 1 |
 
 | ID | Title | Difficulty | Python | Java | C++ |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|001|[Two Sum](https://leetcode.com/problems/two-sum/description/) |Easy|[Python](https://github.com/s969966195/OJ/blob/master/leetcode_subjects/001.%20Two%20Sum/leetcode.py)|To Do|[C++](https://github.com/s969966195/OJ/blob/master/leetcode_subjects/001.%20Two%20Sum/leetcode.cpp)|
+|001|[Two Sum](https://leetcode.com/problems/two-sum/description/) |Easy|[Python](https://github.com/s969966195/OJ/blob/master/leetcode_subjects/001.%20Two%20Sum/leetcode.py)|[Java](https://github.com/s969966195/OJ/blob/master/leetcode_subjects/001.%20Two%20Sum/leetcode.java)|[C++](https://github.com/s969966195/OJ/blob/master/leetcode_subjects/001.%20Two%20Sum/leetcode.cpp)|
 |002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) |Medium|To Do|To Do|To Do|
 |003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |Medium|To Do|To Do|To Do|
 |004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) |Hard|To Do|To Do|To Do|
@@ -743,6 +743,10 @@ Completed:
 |809|[Expressive Words](https://leetcode.com/problems/expressive-words/description/) |Medium|To Do|To Do|To Do|
 |810|[Chalkboard XOR Game](https://leetcode.com/problems/chalkboard-xor-game/description/) |Hard|To Do|To Do|To Do|
 |811|[Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/) |Easy|To Do|To Do|To Do|
+|812|[Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/description/) |Easy|To Do|To Do|To Do|
+|813|[Largest Sum of Averages](https://leetcode.com/problems/largest-sum-of-averages/description/) |Medium|To Do|To Do|To Do|
+|814|[Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/description/) |Medium|To Do|To Do|To Do|
+|815|[Bus Routes](https://leetcode.com/problems/bus-routes/description/) |Hard|To Do|To Do|To Do|
 
 
 ## Nowcoder
