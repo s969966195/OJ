@@ -16,3 +16,4 @@ class Solution(object):
         while l1 or l2:
             if l1 and not l2:
                 
+            if l2 and not l1:
