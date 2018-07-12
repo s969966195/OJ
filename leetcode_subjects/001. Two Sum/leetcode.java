@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class Test {
+public class Solution {
 
 	/*
 	 * Approach 1: Brute Force
