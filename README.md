@@ -1,5 +1,5 @@
 # OJ
-Until 2018-07-15 22:12:54
+Until 2018-07-17 23:05:01
 
 这个项目可以让你的github瓷砖变得很好看  (;￢＿￢)   
 - [LeetCode](#leetcode)
@@ -7,20 +7,20 @@ Until 2018-07-15 22:12:54
 
 ---------------------
 ## LeetCode
-Completed: **3** / **814**
+Completed: **4** / **815**
 
 Completed: 
 
 | Python | Java | C++ |
 | --- | ---: | :---: |
-| 2 | 3 | 1 |
+| 2 | 4 | 1 |
 
 | ID | Title | Difficulty | Python | Java | C++ |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |001|[Two Sum](https://leetcode.com/problems/two-sum/description/) |Easy|[Python](https://github.com/s969966195/OJ/blob/master/leetcode_subjects/001.%20Two%20Sum/leetcode.py)|[Java](https://github.com/s969966195/OJ/blob/master/leetcode_subjects/001.%20Two%20Sum/leetcode.java)|[C++](https://github.com/s969966195/OJ/blob/master/leetcode_subjects/001.%20Two%20Sum/leetcode.cpp)|
 |002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) |Medium|[Python](https://github.com/s969966195/OJ/blob/master/leetcode_subjects/002.%20Add%20Two%20Numbers/leetcode.py)|[Java](https://github.com/s969966195/OJ/blob/master/leetcode_subjects/002.%20Add%20Two%20Numbers/leetcode.java)|To Do|
 |003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |Medium|To Do|[Java](https://github.com/s969966195/OJ/blob/master/leetcode_subjects/003.%20Longest%20Substring%20Without%20Repeating%20Characters/leetcode.java)|To Do|
-|004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) |Hard|To Do|To Do|To Do|
+|004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) |Hard|To Do|[Java](https://github.com/s969966195/OJ/blob/master/leetcode_subjects/004.%20Median%20of%20Two%20Sorted%20Arrays/leetcode.java)|To Do|
 |005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) |Medium|To Do|To Do|To Do|
 |006|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) |Medium|To Do|To Do|To Do|
 |007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) |Easy|To Do|To Do|To Do|
@@ -787,8 +787,8 @@ Completed:
 |829|[Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/description/) |Medium|To Do|To Do|To Do|
 |830|[Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/description/) |Easy|To Do|To Do|To Do|
 |831|[Masking Personal Information](https://leetcode.com/problems/masking-personal-information/description/) |Medium|To Do|To Do|To Do|
-|641|[Design Circular Deque](https://leetcode.com/problems/design-circular-deque/description/) |Easy|To Do|To Do|To Do|
-|622|[Design Circular Queue](https://leetcode.com/problems/design-circular-queue/description/) |Easy|To Do|To Do|To Do|
+|641|[Design Circular Deque](https://leetcode.com/problems/design-circular-deque/description/) |Medium|To Do|To Do|To Do|
+|622|[Design Circular Queue](https://leetcode.com/problems/design-circular-queue/description/) |Medium|To Do|To Do|To Do|
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/) |Easy|To Do|To Do|To Do|
 |833|[Find And Replace in String](https://leetcode.com/problems/find-and-replace-in-string/description/) |Medium|To Do|To Do|To Do|
 |834|[Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/description/) |Hard|To Do|To Do|To Do|
@@ -831,6 +831,7 @@ Completed:
 |869|[Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/description/) |Medium|To Do|To Do|To Do|
 |870|[Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/description/) |Medium|To Do|To Do|To Do|
 |871|[Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/description/) |Hard|To Do|To Do|To Do|
+|872|[Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/description/) |Medium|To Do|To Do|To Do|
 
 
 ## Nowcoder
