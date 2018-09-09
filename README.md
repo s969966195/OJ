@@ -1,5 +1,5 @@
 # OJ
-Until 2018-07-17 23:05:01
+Until 2018-09-09 21:19:48
 
 这个项目可以让你的github瓷砖变得很好看  (;￢＿￢)   
 - [LeetCode](#leetcode)
@@ -7,13 +7,13 @@ Until 2018-07-17 23:05:01
 
 ---------------------
 ## LeetCode
-Completed: **4** / **815**
+Completed: **5** / **851**
 
 Completed: 
 
 | Python | Java | C++ |
 | --- | ---: | :---: |
-| 2 | 4 | 1 |
+| 2 | 5 | 1 |
 
 | ID | Title | Difficulty | Python | Java | C++ |
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -21,7 +21,7 @@ Completed:
 |002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) |Medium|[Python](https://github.com/s969966195/OJ/blob/master/leetcode_subjects/002.%20Add%20Two%20Numbers/leetcode.py)|[Java](https://github.com/s969966195/OJ/blob/master/leetcode_subjects/002.%20Add%20Two%20Numbers/leetcode.java)|To Do|
 |003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |Medium|To Do|[Java](https://github.com/s969966195/OJ/blob/master/leetcode_subjects/003.%20Longest%20Substring%20Without%20Repeating%20Characters/leetcode.java)|To Do|
 |004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) |Hard|To Do|[Java](https://github.com/s969966195/OJ/blob/master/leetcode_subjects/004.%20Median%20of%20Two%20Sorted%20Arrays/leetcode.java)|To Do|
-|005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) |Medium|To Do|To Do|To Do|
+|005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) |Medium|To Do|[Java](https://github.com/s969966195/OJ/blob/master/leetcode_subjects/005.%20Longest%20Palindromic%20Substring/leetcode.java)|To Do|
 |006|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) |Medium|To Do|To Do|To Do|
 |007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) |Easy|To Do|To Do|To Do|
 |008|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) |Medium|To Do|To Do|To Do|
@@ -603,7 +603,7 @@ Completed:
 |654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/) |Medium|To Do|To Do|To Do|
 |655|[Print Binary Tree](https://leetcode.com/problems/print-binary-tree/description/) |Medium|To Do|To Do|To Do|
 |656|[Coin Path](https://leetcode.com/problems/coin-path/description/) :lock:|Hard|To Do|To Do|To Do|
-|657|[Judge Route Circle](https://leetcode.com/problems/judge-route-circle/description/) |Easy|To Do|To Do|To Do|
+|657|[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/description/) |Easy|To Do|To Do|To Do|
 |658|[Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/description/) |Medium|To Do|To Do|To Do|
 |659|[Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/description/) |Medium|To Do|To Do|To Do|
 |660|[Remove 9](https://leetcode.com/problems/remove-9/description/) :lock:|Hard|To Do|To Do|To Do|
@@ -831,7 +831,43 @@ Completed:
 |869|[Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/description/) |Medium|To Do|To Do|To Do|
 |870|[Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/description/) |Medium|To Do|To Do|To Do|
 |871|[Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/description/) |Hard|To Do|To Do|To Do|
-|872|[Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/description/) |Medium|To Do|To Do|To Do|
+|470|[Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/description/) |Medium|To Do|To Do|To Do|
+|872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/description/) |Easy|To Do|To Do|To Do|
+|873|[Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/description/) |Medium|To Do|To Do|To Do|
+|874|[Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/description/) |Easy|To Do|To Do|To Do|
+|875|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/) |Medium|To Do|To Do|To Do|
+|876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) |Easy|To Do|To Do|To Do|
+|877|[Stone Game](https://leetcode.com/problems/stone-game/description/) |Medium|To Do|To Do|To Do|
+|878|[Nth Magical Number](https://leetcode.com/problems/nth-magical-number/description/) |Hard|To Do|To Do|To Do|
+|879|[Profitable Schemes](https://leetcode.com/problems/profitable-schemes/description/) |Hard|To Do|To Do|To Do|
+|528|[Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/description/) |Medium|To Do|To Do|To Do|
+|519|[Random Flip Matrix](https://leetcode.com/problems/random-flip-matrix/description/) |Medium|To Do|To Do|To Do|
+|497|[Random Point in Non-overlapping Rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/description/) |Medium|To Do|To Do|To Do|
+|478|[Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/description/) |Medium|To Do|To Do|To Do|
+|880|[Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/description/) |Medium|To Do|To Do|To Do|
+|881|[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/description/) |Medium|To Do|To Do|To Do|
+|882|[Reachable Nodes In Subdivided Graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/description/) |Hard|To Do|To Do|To Do|
+|883|[Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes/description/) |Easy|To Do|To Do|To Do|
+|884|[Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/description/) |Easy|To Do|To Do|To Do|
+|885|[Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/description/) |Medium|To Do|To Do|To Do|
+|886|[Possible Bipartition](https://leetcode.com/problems/possible-bipartition/description/) |Medium|To Do|To Do|To Do|
+|887|[Super Egg Drop](https://leetcode.com/problems/super-egg-drop/description/) |Hard|To Do|To Do|To Do|
+|888|[Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/description/) |Easy|To Do|To Do|To Do|
+|889|[Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/description/) |Medium|To Do|To Do|To Do|
+|890|[Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/description/) |Medium|To Do|To Do|To Do|
+|891|[Sum of Subsequence Widths](https://leetcode.com/problems/sum-of-subsequence-widths/description/) |Hard|To Do|To Do|To Do|
+|892|[Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/description/) |Easy|To Do|To Do|To Do|
+|893|[Groups of Special-Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/description/) |Easy|To Do|To Do|To Do|
+|894|[All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/description/) |Medium|To Do|To Do|To Do|
+|895|[Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/description/) |Hard|To Do|To Do|To Do|
+|896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/description/) |Easy|To Do|To Do|To Do|
+|897|[Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/description/) |Easy|To Do|To Do|To Do|
+|898|[Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays/description/) |Medium|To Do|To Do|To Do|
+|899|[Orderly Queue](https://leetcode.com/problems/orderly-queue/description/) |Hard|To Do|To Do|To Do|
+|900|[RLE Iterator](https://leetcode.com/problems/rle-iterator/description/) |Medium|To Do|To Do|To Do|
+|901|[Online Stock Span](https://leetcode.com/problems/online-stock-span/description/) |Medium|To Do|To Do|To Do|
+|902|[Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/description/) |Hard|To Do|To Do|To Do|
+|903|[Valid Permutations for DI Sequence](https://leetcode.com/problems/valid-permutations-for-di-sequence/description/) |Hard|To Do|To Do|To Do|
 
 
 ## Nowcoder
