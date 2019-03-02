@@ -1,5 +1,5 @@
 # OJ
-Until 2019-03-02 10:17:04
+Until 2019-03-02 10:56:35
 
 这个项目可以让你的github瓷砖变得很好看  (;￢＿￢)   
 - [LeetCode](#leetcode)
@@ -7,13 +7,13 @@ Until 2019-03-02 10:17:04
 
 ---------------------
 ## LeetCode
-Completed: **6** / **949**
+Completed: **7** / **949**
 
 Completed: 
 
 | Python | Java | C++ |
 | --- | ---: | :---: |
-| 2 | 6 | 1 |
+| 2 | 7 | 1 |
 
 | ID | Title | Difficulty | Python | Java | C++ |
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -22,7 +22,7 @@ Completed:
 |003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |Medium|To Do|[Java](https://github.com/s969966195/OJ/blob/master/leetcode_subjects/003.%20Longest%20Substring%20Without%20Repeating%20Characters/leetcode.java)|To Do|
 |004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) |Hard|To Do|[Java](https://github.com/s969966195/OJ/blob/master/leetcode_subjects/004.%20Median%20of%20Two%20Sorted%20Arrays/leetcode.java)|To Do|
 |005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) |Medium|To Do|[Java](https://github.com/s969966195/OJ/blob/master/leetcode_subjects/005.%20Longest%20Palindromic%20Substring/leetcode.java)|To Do|
-|006|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) |Medium|To Do|To Do|To Do|
+|006|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) |Medium|To Do|[Java](https://github.com/s969966195/OJ/blob/master/leetcode_subjects/006.%20ZigZag%20Conversion/leetcode.java)|To Do|
 |007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) |Easy|To Do|To Do|To Do|
 |008|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) |Medium|To Do|To Do|To Do|
 |009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) |Easy|To Do|To Do|To Do|
