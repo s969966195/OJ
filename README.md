@@ -1,5 +1,5 @@
 # OJ
-Until 2019-03-02 10:56:35
+Until 2019-03-03 15:58:46
 
 这个项目可以让你的github瓷砖变得很好看  (;￢＿￢)   
 - [LeetCode](#leetcode)
@@ -7,13 +7,13 @@ Until 2019-03-02 10:56:35
 
 ---------------------
 ## LeetCode
-Completed: **7** / **949**
+Completed: **8** / **953**
 
 Completed: 
 
 | Python | Java | C++ |
 | --- | ---: | :---: |
-| 2 | 7 | 1 |
+| 2 | 8 | 1 |
 
 | ID | Title | Difficulty | Python | Java | C++ |
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -23,7 +23,7 @@ Completed:
 |004|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) |Hard|To Do|[Java](https://github.com/s969966195/OJ/blob/master/leetcode_subjects/004.%20Median%20of%20Two%20Sorted%20Arrays/leetcode.java)|To Do|
 |005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) |Medium|To Do|[Java](https://github.com/s969966195/OJ/blob/master/leetcode_subjects/005.%20Longest%20Palindromic%20Substring/leetcode.java)|To Do|
 |006|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) |Medium|To Do|[Java](https://github.com/s969966195/OJ/blob/master/leetcode_subjects/006.%20ZigZag%20Conversion/leetcode.java)|To Do|
-|007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) |Easy|To Do|To Do|To Do|
+|007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) |Easy|To Do|[Java](https://github.com/s969966195/OJ/blob/master/leetcode_subjects/007.%20Reverse%20Integer/leetcode.java)|To Do|
 |008|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) |Medium|To Do|To Do|To Do|
 |009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) |Easy|To Do|To Do|To Do|
 |010|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/) |Hard|To Do|To Do|To Do|
@@ -965,7 +965,11 @@ Completed:
 |997|[Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/description/) |Easy|To Do|To Do|To Do|
 |998|[Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii/description/) |Medium|To Do|To Do|To Do|
 |999|[Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/description/) |Easy|To Do|To Do|To Do|
+|1000|[Minimum Cost to Merge Stones](https://leetcode.com/problems/minimum-cost-to-merge-stones/description/) |Hard|To Do|To Do|To Do|
 |1001|[Grid Illumination](https://leetcode.com/problems/grid-illumination/description/) |Hard|To Do|To Do|To Do|
+|1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/description/) |Easy|To Do|To Do|To Do|
+|1003|[Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/description/) |Medium|To Do|To Do|To Do|
+|1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/description/) |Medium|To Do|To Do|To Do|
 
 
 ## Nowcoder
