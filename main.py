@@ -7,7 +7,7 @@ import os
 def init_readme():
     msg = '# OJ\n' \
           'Until {}\n' \
-          '\nThis project can make your github tiles look great  (;=_=)   \n' \
+          '\nThis project can make your github tiles look great  (;=_=)   \n' \
           '- [LeetCode](#leetcode)\n' \
           '- [NowCoder](#nowcoder)\n'.format(time.strftime("%Y-%m-%d %H:%M:%S",
               time.localtime()))
