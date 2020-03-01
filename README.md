@@ -1,7 +1,7 @@
 # OJ
-Until 2020-03-01 21:20:10
+Until 2020-03-01 21:44:21
 
-这个项目可以让你的github瓷砖变得很好看  (;￢＿￢)   
+This project can make your github tiles look great  (;=_=)   
 - [LeetCode](#leetcode)
 - [NowCoder](#nowcoder)
 
