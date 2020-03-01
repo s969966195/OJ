@@ -1,11 +1,12 @@
 # coding=utf-8
 import requests
 import json
-from Question import Question
-from CompleteInform import CompleteInform
+from leetcode.Question import Question
+from leetcode.CompleteInform import CompleteInform
 import os
-from Readme import Readme
-from Config import Config
+from leetcode.Readme import Readme
+from leetcode.Config import Config
+import re
 
 
 class LeetcodeTableInform:
@@ -46,16 +47,18 @@ class LeetcodeTableInform:
         oj_algorithms = os.getcwd() + '/' + oj_name
 
         if os.path.exists(oj_algorithms):
-            print oj_name + u' 文件夹已存在.'
+            print(oj_name + u' 文件夹已存在.')
         else:
-            print '创建 {} 文件夹......'.format(oj_name)
+            print('创建 {} 文件夹......'.format(oj_name))
             os.mkdir(oj_algorithms)
 
+        rstr = r"[\*\?\"\<\>\|]"
         for item in self.table_item.values():
             question_folder_name = oj_algorithms + '/' + item.id + '. ' + item.title
-            if not os.path.exists(question_folder_name):
-                print question_folder_name + u'文件夹不存在, 正在创建......'
-                os.mkdir(question_folder_name)
+            re_question_folder_name = re.sub(rstr, "", question_folder_name)
+            if not os.path.exists(re_question_folder_name):
+                print(question_folder_name + u'文件夹不存在, 正在创建......')
+                os.mkdir(re.sub(rstr, "", re_question_folder_name))
 
     def update_table(self, oj):
         complete_info = CompleteInform()

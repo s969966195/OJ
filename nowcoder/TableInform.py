@@ -1,9 +1,9 @@
 # coding=utf-8
-from CompleteInform import CompleteInform
+from nowcoder.CompleteInform import CompleteInform
 import os
-from Config import Config
-from Question import Question
-from Readme import Readme
+from nowcoder.Config import Config
+from nowcoder.Question import Question
+from nowcoder.Readme import Readme
 
 
 subjects = {
@@ -46,4 +46,4 @@ class NowcoderTableInform:
 
         readme = Readme(complete_info.complete_num, complete_info.solved)
         readme.create_nowcoder_readme(self.table, subjects)
-        print complete_info.solved 
+        print(complete_info.solved)

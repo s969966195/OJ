@@ -1,6 +1,6 @@
 # coding=utf-8
 import time
-from Config import Config
+from leetcode.Config import Config
 import os
 
 

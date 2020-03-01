@@ -12,13 +12,13 @@ def init_readme():
           '- [NowCoder](#nowcoder)\n'.format(time.strftime("%Y-%m-%d %H:%M:%S",
               time.localtime()))
     file_path = os.getcwd() + '/README.md'
-    with open(file_path, 'w') as f:
+    with open(file_path, 'w', encoding="utf-8") as f:
         f.write(msg)
         f.write('\n---------------------\n')
 
 if __name__ == '__main__':
     init_readme()
-    print 'Readme初始化已完成...'
+    print('Readme初始化已完成...')
     leetcode = LeetcodeTableInform()
     leetcode.update_table('leetcode_subjects')
     nowcoder = NowcoderTableInform()
