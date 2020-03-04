@@ -1,5 +1,5 @@
 # OJ
-Until 2020-03-02 23:34:59
+Until 2020-03-04 23:36:02
 
 This project can make your github tiles look great  (;=_=)
 - [LeetCode](#leetcode)
@@ -7,13 +7,13 @@ This project can make your github tiles look great  (;=_=)
 
 ---------------------
 ## LeetCode
-Completed: **12** / **1256**
+Completed: **13** / **1256**
 
 Completed: 
 
 | Python | Java | C++ |
 | --- | ---: | :---: |
-| 2 | 11 | 1 |
+| 2 | 12 | 1 |
 
 | ID | Title | Difficulty | Python | Java | C++ |
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -961,7 +961,7 @@ Completed:
 |991|[Broken Calculator](https://leetcode.com/problems/broken-calculator/description/) |Medium|To Do|To Do|To Do|
 |992|[Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/description/) |Hard|To Do|To Do|To Do|
 |993|[Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/description/) |Easy|To Do|To Do|To Do|
-|994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/) |Easy|To Do|To Do|To Do|
+|994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/) |Easy|To Do|[Java](https://github.com/s969966195/OJ/blob/master/leetcode_subjects\994.%20Rotting%20Oranges\leetcode.java)|To Do|
 |995|[Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/description/) |Hard|To Do|To Do|To Do|
 |996|[Number of Squareful Arrays](https://leetcode.com/problems/number-of-squareful-arrays/description/) |Hard|To Do|To Do|To Do|
 |997|[Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/description/) |Easy|To Do|To Do|To Do|
